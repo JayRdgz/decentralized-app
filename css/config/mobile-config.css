@@ -1,0 +1,15 @@
+@media screen and (max-width: 1166px) {
+  .wrapper {
+    width: 960px;
+    height: 300px;
+    margin: 0 auto;
+    background: tomato; } }
+
+@media screen and (max-width: 1024px) {
+  .wrapper {
+    width: 960px;
+    height: 300px;
+    margin: 0 auto;
+    background: #fff; } }
+
+/*# sourceMappingURL=mobile-config.css.map */
